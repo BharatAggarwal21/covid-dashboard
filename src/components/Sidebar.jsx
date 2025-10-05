@@ -3,8 +3,7 @@ import React from "react";
 const Sidebar = () => (
   <div className="sidebar">
     <div className="logo-container">
-      <img src="/covid.jpeg" alt="." className="covid-icon" />
-      <div className="logo">COVID</div>
+      <div className="logo">COVID_19</div>
     </div>
     <nav className="nav">
       <ul>
